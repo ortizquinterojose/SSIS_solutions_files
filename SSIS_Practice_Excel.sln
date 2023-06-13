@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_Practice_Excel", "SSIS_Practice_Excel\SSIS_Practice_Excel.dtproj", "{A922D86D-3365-4166-809F-B0B9D176F9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A922D86D-3365-4166-809F-B0B9D176F9CE}.Development|Default.ActiveCfg = Development
+		{A922D86D-3365-4166-809F-B0B9D176F9CE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE599F9-7E93-4BE1-8C97-285A3DDACDBC}
+	EndGlobalSection
+EndGlobal
